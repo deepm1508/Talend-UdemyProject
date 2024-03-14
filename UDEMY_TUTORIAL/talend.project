@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_BflIAeCmEe6wCKq1urW-GA" label="udemy_tutorial" language="java" technicalLabel="UDEMY_TUTORIAL" author="_BflIAuCmEe6wCKq1urW-GA" productVersion="Talend Cloud Data Management Platform-8.0.1.20230418_1502-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/deepm1508/Talend-UdemyProject.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_BgaOcOCmEe6wCKq1urW-GA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_BflIAuCmEe6wCKq1urW-GA" login="kailashm.1956@trial13410.ap.talend.com" firstName="Deepm" lastName="Deepm" type="DQ"/>
+</xmi:XMI>
