@@ -9,4 +9,19 @@
     "version" : "Latest",
     "type" : "context"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_iRjQQOLKEe6_zvnshTEmog",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog - salesSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
