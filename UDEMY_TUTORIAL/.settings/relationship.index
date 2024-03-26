@@ -11,6 +11,32 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_8twXIOXcEe6uSrkP7KiS9A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog - salesSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_E5zLgOXdEe6uSrkP7KiS9A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ ]
+}, {
+  "baseItem" : {
     "id" : "_NyOR8ORiEe618qaQTWIIzg",
     "version" : "0.1",
     "type" : "job"
@@ -21,6 +47,25 @@
     "type" : "context"
   }, {
     "id" : "_rDdXYORiEe618qaQTWIIzg - addressSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "__z3YAOXSEe6uSrkP7KiS9A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_DLnBEOLMEe6_zvnshTEmog - salesSchema",
     "version" : "Latest",
     "type" : "schema"
   } ]
@@ -37,6 +82,21 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_h-TOwOXYEe6uSrkP7KiS9A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A - sales",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_iRjQQOLKEe6_zvnshTEmog",
     "version" : "0.1",
     "type" : "job"
@@ -47,6 +107,21 @@
     "type" : "property"
   }, {
     "id" : "_DLnBEOLMEe6_zvnshTEmog - salesSchema",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kOGNYOT3Ee618qaQTWIIzg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_qEyzkOW-Ee6uSrkP7KiS9A - CityCountry",
     "version" : "Latest",
     "type" : "schema"
   } ]
